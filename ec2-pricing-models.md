@@ -133,21 +133,6 @@ Running 100 training runs/month:
 - ANNUAL SAVINGS: $25,680
 
 
-### 4. SAVINGS PLANS - Flexible Commitment
-
-#### What It Is
-
-#### Two Types
-
-##### Compute Savings Plans
-
-##### EC2 Instance Savings Plans
-
-#### Example
-
-#### When to Use
-
-#### Reserved Instances vs. Savings Plans
 
 
 
